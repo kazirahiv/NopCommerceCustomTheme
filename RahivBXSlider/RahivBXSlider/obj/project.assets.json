@@ -13358,23 +13358,23 @@
     },
     "Nop.Core/4.4.0": {
       "type": "project",
-      "path": "../../../../New folder/src/Libraries/Nop.Core/Nop.Core.csproj",
-      "msbuildProject": "../../../../New folder/src/Libraries/Nop.Core/Nop.Core.csproj"
+      "path": "../../../../Libraries/Nop.Core/Nop.Core.csproj",
+      "msbuildProject": "../../../../Libraries/Nop.Core/Nop.Core.csproj"
     },
     "Nop.Data/4.4.0": {
       "type": "project",
-      "path": "../../../../New folder/src/Libraries/Nop.Data/Nop.Data.csproj",
-      "msbuildProject": "../../../../New folder/src/Libraries/Nop.Data/Nop.Data.csproj"
+      "path": "../../../../Libraries/Nop.Data/Nop.Data.csproj",
+      "msbuildProject": "../../../../Libraries/Nop.Data/Nop.Data.csproj"
     },
     "Nop.Services/4.4.0": {
       "type": "project",
-      "path": "../../../../New folder/src/Libraries/Nop.Services/Nop.Services.csproj",
-      "msbuildProject": "../../../../New folder/src/Libraries/Nop.Services/Nop.Services.csproj"
+      "path": "../../../../Libraries/Nop.Services/Nop.Services.csproj",
+      "msbuildProject": "../../../../Libraries/Nop.Services/Nop.Services.csproj"
     },
     "Nop.Web.Framework/4.4.0": {
       "type": "project",
-      "path": "../../../../New folder/src/Presentation/Nop.Web.Framework/Nop.Web.Framework.csproj",
-      "msbuildProject": "../../../../New folder/src/Presentation/Nop.Web.Framework/Nop.Web.Framework.csproj"
+      "path": "../../../../Presentation/Nop.Web.Framework/Nop.Web.Framework.csproj",
+      "msbuildProject": "../../../../Presentation/Nop.Web.Framework/Nop.Web.Framework.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -13388,11 +13388,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\RahivTheme\\SliderTask\\RahivBXSlider\\RahivBXSlider\\RahivBXSlider.csproj",
+      "projectUniqueName": "D:\\New folder\\src\\Plugins\\RahivTheme\\RahivBXSlider\\RahivBXSlider\\RahivBXSlider.csproj",
       "projectName": "RahivBXSlider",
-      "projectPath": "D:\\RahivTheme\\SliderTask\\RahivBXSlider\\RahivBXSlider\\RahivBXSlider.csproj",
+      "projectPath": "D:\\New folder\\src\\Plugins\\RahivTheme\\RahivBXSlider\\RahivBXSlider\\RahivBXSlider.csproj",
       "packagesPath": "C:\\Users\\Rahiv-KAZ\\.nuget\\packages\\",
-      "outputPath": "D:\\RahivTheme\\SliderTask\\RahivBXSlider\\RahivBXSlider\\obj\\",
+      "outputPath": "D:\\New folder\\src\\Plugins\\RahivTheme\\RahivBXSlider\\RahivBXSlider\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rahiv-KAZ\\AppData\\Roaming\\NuGet\\NuGet.Config",

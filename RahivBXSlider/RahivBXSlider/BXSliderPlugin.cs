@@ -2,7 +2,7 @@
 
 namespace RahivBXSlider
 {
-    public class Class1
+    public class BXSliderPlugin
     {
     }
 }

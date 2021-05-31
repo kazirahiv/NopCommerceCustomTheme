@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UapoUB7ud193oirnOdpa4RL4DyRSZ5N8FV/p4WhdVbiiB6uaxthsZwp+FZFnZv+4j6FuFQFPS55aCVlU0vzi7Q==",
+  "dgSpecHash": "uCmMO4CxSZdRIe7r2jHgzB615X8DuZ+9nRIOnWElyoE3yrb2Enz80QULL8hATROC4MMYU/JhMTy/rTiS6wBlyQ==",
   "success": true,
-  "projectFilePath": "D:\\RahivTheme\\SliderTask\\RahivBXSlider\\RahivBXSlider\\RahivBXSlider.csproj",
+  "projectFilePath": "D:\\New folder\\src\\Plugins\\RahivTheme\\RahivBXSlider\\RahivBXSlider\\RahivBXSlider.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rahiv-KAZ\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\Rahiv-KAZ\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
