@@ -294,6 +294,10 @@ D:\RahivTheme\SliderTask\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\RahivBXSli
 D:\RahivTheme\SliderTask\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\RahivBXSlider.dll
 D:\RahivTheme\SliderTask\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\ref\RahivBXSlider.dll
 D:\RahivTheme\SliderTask\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\RahivBXSlider.pdb
+D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\logo.jpg
+D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\Views\Configure.cshtml
+D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\Views\PublicInfo.cshtml
+D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\Views\_ViewImports.cshtml
 D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\RahivBXSlider.deps.json
 D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\RahivBXSlider.dll
 D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\ref\RahivBXSlider.dll
@@ -581,9 +585,6 @@ D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\refs\System
 D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\refs\System.Xml.XPath.dll
 D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\refs\System.Xml.XPath.XDocument.dll
 D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\refs\WindowsBase.dll
-D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\Views\Configure.cshtml
-D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\Views\PublicInfo.cshtml
-D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\Views\_ViewImports.cshtml
 D:\New folder\src\Plugins\RahivTheme\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\RahivBXSlider.csprojAssemblyReference.cache
 D:\New folder\src\Plugins\RahivTheme\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\RahivBXSlider.GeneratedMSBuildEditorConfig.editorconfig
 D:\New folder\src\Plugins\RahivTheme\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\RahivBXSlider.AssemblyInfoInputs.cache
@@ -593,3 +594,4 @@ D:\New folder\src\Plugins\RahivTheme\RahivBXSlider\RahivBXSlider\obj\Debug\net5.
 D:\New folder\src\Plugins\RahivTheme\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\RahivBXSlider.dll
 D:\New folder\src\Plugins\RahivTheme\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\ref\RahivBXSlider.dll
 D:\New folder\src\Plugins\RahivTheme\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\RahivBXSlider.pdb
+D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\plugin.json

@@ -6,12 +6,10 @@ namespace RahivBXSlider.Infrastructure
 {
     class RouteProvider : IRouteProvider
     {
- 
-
         public void RegisterRoutes(IEndpointRouteBuilder endpointRouteBuilder)
         {
-            endpointRouteBuilder.MapControllerRoute("MyCustomPluginRoute", "Plugins/TestMyCustomPlugin/Index",
-                new { controller = "TestMyCustomPlugin", action = "Index" });
+            endpointRouteBuilder.MapControllerRoute("RahivBXSliderRoute", "Plugins/RahivBXSlide/Index",
+                new { controller = "RahivBXSlider", action = "Index" });
         }
 
         public int Priority => 0;
