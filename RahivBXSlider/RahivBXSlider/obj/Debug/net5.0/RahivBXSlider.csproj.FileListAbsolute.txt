@@ -595,3 +595,5 @@ D:\New folder\src\Plugins\RahivTheme\RahivBXSlider\RahivBXSlider\obj\Debug\net5.
 D:\New folder\src\Plugins\RahivTheme\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\ref\RahivBXSlider.dll
 D:\New folder\src\Plugins\RahivTheme\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\RahivBXSlider.pdb
 D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\plugin.json
+D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\Content\bxslider.css
+D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\Scripts\bxslider.js

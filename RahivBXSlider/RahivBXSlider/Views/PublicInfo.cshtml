@@ -1,12 +1,28 @@
 ﻿@model RahivBXSlider.Models.PublicInfoModel;
 
 
-@{ Layout = ""; }
+@{
+    Layout = "";
+
+    Html.AddScriptParts(ResourceLocation.Footer, "~/Plugins/Widgets.RahivBXSlider/Scripts/bxslider.js");
+    Html.AddCssFileParts("~/Plugins/Widgets.RahivBXSlider/Content/bxslider.css");
+}
 
 <div class="Plugin-wrapper topic-block">
     <div id="My-Custom-Plugin" class="topic-block-title">
-        <h1>This is my custom Plugin</h1>
+        <div class="slider">
+            <div><img src="https://bxslider.com/assets/images/plant.jpg" title="Funky roots"></div>
+            <div><img src="https://bxslider.com/assets/images/daisies.jpg" title="The long and winding road"></div>
+            <div><img src="https://bxslider.com/assets/images/succulents.jpg" title="Happy trees"></div>
+        </div>
         @if (Model.UseSandbox)
         {<h2>@Model.Message</h2>}
     </div>
 </div> 
+
+
+<script asp-location="Footer">
+    $(document).ready(function () {
+        $('.slider').bxSlider();
+    });
+</script>
