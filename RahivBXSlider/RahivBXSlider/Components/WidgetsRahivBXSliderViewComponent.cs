@@ -16,7 +16,6 @@ namespace RahivBXSlider.Components
         private readonly ISettingService _settingService;
 
 
-
         public WidgetsRahivBXSliderViewComponent(IStoreContext storeContext, ISettingService settingService)
         {
             this._storeContext = storeContext;
