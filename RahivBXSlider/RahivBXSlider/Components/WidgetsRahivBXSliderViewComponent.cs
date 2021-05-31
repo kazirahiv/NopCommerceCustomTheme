@@ -9,7 +9,7 @@ using RahivBXSlider.Models;
 namespace RahivBXSlider.Components
 {
     [ViewComponent(Name = "WidgetsRahivBXSlider")]
-    class WidgetsRahivBXSliderViewComponent : NopViewComponent
+    public class WidgetsRahivBXSliderViewComponent : NopViewComponent
     {
         public static string ViewComponentName => "WidgetsRahivBXSlider";
         private readonly IStoreContext _storeContext;

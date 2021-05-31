@@ -9,12 +9,14 @@ using Nop.Services.Localization;
 using Nop.Services.Media;
 using Nop.Services.Messages;
 using RahivBXSlider.Models;
-
+using Nop.Web.Framework.Mvc.Filters;
 
 namespace RahivBXSlider.Controllers
 {
+    [AuthorizeAdmin]
     [Area(AreaNames.Admin)]
-    class RahivBXSliderController : BasePluginController
+    [AutoValidateAntiforgeryToken]
+    public class RahivBXSliderController : BasePluginController
     {
         private readonly ILocalizationService _localizationService;
         private readonly INotificationService _notificationService;
@@ -47,7 +49,7 @@ namespace RahivBXSlider.Controllers
             //load settings for a chosen store scope
             var storeScope = await _storeContext.GetActiveStoreScopeConfigurationAsync();
             var bXSliderSettings = await _settingService.LoadSettingAsync<BXSliderSettings>(storeScope);
-            var model = new ConfigurationModel
+            var model = new PublicInfoModel
             {
                 Message = bXSliderSettings.Message,
                 UseSandbox = bXSliderSettings.UseSandbox

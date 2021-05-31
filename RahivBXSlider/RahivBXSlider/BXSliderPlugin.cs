@@ -39,7 +39,7 @@ namespace RahivBXSlider
 
         public override string GetConfigurationPageUrl()
         {
-            return _webHelper.GetStoreLocation() + "Admin/WidgetsRahivBXSlider/Configure";
+            return $"{_webHelper.GetStoreLocation()}Admin/RahivBXSlider/Configure";
         }
 
 

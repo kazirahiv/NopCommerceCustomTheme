@@ -6,6 +6,6 @@
   "SupportedVersions": [ "4.40" ],
   "Author": "Kazi Rahiv",
   "DisplayOrder": 1,
-  "FileName": "Nop.Plugin.Widgets.RahivBXSlider.dll",
+  "FileName": "RahivBXSlider.dll",
   "Description": "This plugin will add a BXSlider into nop-commerce homepage."
 }
