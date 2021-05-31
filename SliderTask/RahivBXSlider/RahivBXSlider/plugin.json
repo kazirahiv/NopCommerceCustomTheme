@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "Rahiv BXSlider",
+  "SystemName": "Widgets.RahivBXSlider",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.40" ],
+  "Author": "Kazi Rahiv",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.RahivBXSlider.dll",
+  "Description": "This plugin will add a BXSlider into nop-commerce homepage."
+}
