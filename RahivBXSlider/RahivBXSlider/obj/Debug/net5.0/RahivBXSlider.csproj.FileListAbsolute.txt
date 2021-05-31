@@ -581,3 +581,15 @@ D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\refs\System
 D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\refs\System.Xml.XPath.dll
 D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\refs\System.Xml.XPath.XDocument.dll
 D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\refs\WindowsBase.dll
+D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\Views\Configure.cshtml
+D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\Views\PublicInfo.cshtml
+D:\New folder\src\Presentation\Nop.Web\Plugins\Widgets.RahivBXSlider\Views\_ViewImports.cshtml
+D:\New folder\src\Plugins\RahivTheme\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\RahivBXSlider.csprojAssemblyReference.cache
+D:\New folder\src\Plugins\RahivTheme\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\RahivBXSlider.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\src\Plugins\RahivTheme\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\RahivBXSlider.AssemblyInfoInputs.cache
+D:\New folder\src\Plugins\RahivTheme\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\RahivBXSlider.AssemblyInfo.cs
+D:\New folder\src\Plugins\RahivTheme\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\RahivBXSlider.csproj.CoreCompileInputs.cache
+D:\New folder\src\Plugins\RahivTheme\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\RahivBXSlider.csproj.CopyComplete
+D:\New folder\src\Plugins\RahivTheme\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\RahivBXSlider.dll
+D:\New folder\src\Plugins\RahivTheme\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\ref\RahivBXSlider.dll
+D:\New folder\src\Plugins\RahivTheme\RahivBXSlider\RahivBXSlider\obj\Debug\net5.0\RahivBXSlider.pdb

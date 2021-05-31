@@ -1,0 +1,12 @@
+﻿@model RahivBXSlider.Models.PublicInfoModel;
+
+
+@{ Layout = ""; }
+
+<div class="Plugin-wrapper topic-block">
+    <div id="My-Custom-Plugin" class="topic-block-title">
+        <h1>This is my custom Plugin</h1>
+        @if (Model.UseSandbox)
+        {<h2>@Model.Message</h2>}
+    </div>
+</div> 
